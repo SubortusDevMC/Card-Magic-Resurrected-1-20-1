@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "cardmagic:joker_card"
+    },
+    {
+      "item": "cardmagic:joker_card"
+    },
+    {
+      "item": "cardmagic:joker_card"
+    },
+    {
+      "item": "cardmagic:joker_card"
+    },
+    {
+      "item": "cardmagic:joker_card"
+    }
+  ],
+  "result": {
+    "count": 5,
+    "item": "cardmagic:hoyles_joker_card"
+  }
+}

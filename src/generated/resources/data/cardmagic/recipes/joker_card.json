@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "R": {
+      "item": "minecraft:red_dye"
+    },
+    "S": {
+      "item": "minecraft:ink_sac"
+    }
+  },
+  "pattern": [
+    " S ",
+    " P ",
+    " R "
+  ],
+  "result": {
+    "count": 5,
+    "item": "cardmagic:joker_card"
+  },
+  "show_notification": true
+}

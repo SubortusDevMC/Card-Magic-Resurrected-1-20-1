@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "cardmagic:diamond_card"
+    },
+    {
+      "item": "cardmagic:diamond_card"
+    },
+    {
+      "item": "cardmagic:diamond_card"
+    },
+    {
+      "item": "cardmagic:diamond_card"
+    },
+    {
+      "item": "cardmagic:diamond_card"
+    }
+  ],
+  "result": {
+    "count": 5,
+    "item": "cardmagic:loaded_diamond_card"
+  }
+}

@@ -1,0 +1,16 @@
+// 1.20.1	2024-08-19T20:28:30.66975004	Item Models: cardmagic
+54b4e6073a254af1c562db7a6ffc916ac0fbc744 assets/cardmagic/models/item/club_card.json
+c219ebb6e7a6a1077d24224f22d905ab0cee1161 assets/cardmagic/models/item/diamond_card.json
+3fab8d6d4dcfcb8fbf2b6defeb0cf59ab9e1e6e0 assets/cardmagic/models/item/heart_card.json
+0b69cb0dd713aec225297d2494c967448e13d677 assets/cardmagic/models/item/hoyles_club_card.json
+05ae8b8164a49a7b681b2deda3960c32e260efc5 assets/cardmagic/models/item/hoyles_diamond_card.json
+2c8e8dff1ea2b6b39c504bccb2a3e4c745403746 assets/cardmagic/models/item/hoyles_heart_card.json
+3258ce221e2527a6975b08fc1ee4b733754daf15 assets/cardmagic/models/item/hoyles_joker_card.json
+2cda454f18e75950286e69dcac6dc63649e83fab assets/cardmagic/models/item/hoyles_spade_card.json
+dc7eca084f8a01d37cfb13aee918a73bb5c3db67 assets/cardmagic/models/item/joker_card.json
+d1262375a977b1eb35e3d2e1e50723d2457079cb assets/cardmagic/models/item/loaded_club_card.json
+d7e18df331b7ebf41f9aed15fc27ae446e9133d5 assets/cardmagic/models/item/loaded_diamond_card.json
+872dd878ad1c03df75d38612a201d19306df8afe assets/cardmagic/models/item/loaded_heart_card.json
+1d04b5ed3f24193412a9141c584ba74d2cb73fdb assets/cardmagic/models/item/loaded_joker_card.json
+f388340be5a24488c877e3d0c22d61abee4eb4e9 assets/cardmagic/models/item/loaded_spade_card.json
+7b8af8098c1bcb5072270a2ca433c15410c601f4 assets/cardmagic/models/item/spade_card.json

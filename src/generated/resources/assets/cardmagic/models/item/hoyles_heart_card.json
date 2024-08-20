@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cardmagic:item/hoyles_heart_card"
+  }
+}

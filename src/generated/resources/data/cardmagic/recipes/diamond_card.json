@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "R": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "pattern": [
+    " R ",
+    " P ",
+    " R "
+  ],
+  "result": {
+    "count": 5,
+    "item": "cardmagic:diamond_card"
+  },
+  "show_notification": true
+}

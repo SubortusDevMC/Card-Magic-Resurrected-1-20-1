@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "item": "minecraft:ink_sac"
+    }
+  },
+  "pattern": [
+    " S ",
+    " P ",
+    " S "
+  ],
+  "result": {
+    "count": 5,
+    "item": "cardmagic:spade_card"
+  },
+  "show_notification": true
+}

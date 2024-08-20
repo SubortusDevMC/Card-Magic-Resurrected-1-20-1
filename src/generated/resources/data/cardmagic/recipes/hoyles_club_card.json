@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "cardmagic:club_card"
+    },
+    {
+      "item": "cardmagic:club_card"
+    },
+    {
+      "item": "cardmagic:club_card"
+    },
+    {
+      "item": "cardmagic:club_card"
+    },
+    {
+      "item": "cardmagic:club_card"
+    }
+  ],
+  "result": {
+    "count": 5,
+    "item": "cardmagic:hoyles_club_card"
+  }
+}
